@@ -4,8 +4,6 @@
 
 Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.org/)
 
-Siéntase libre de editar, complementar, mejorar, incluir, clarificar los contenidos de estas notas. ¡Recuerde compartir sus aportes!
-
 ## Temario
 
 * [01. Introducción](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/1.%20Introducci%C3%B3n.ipynb)
