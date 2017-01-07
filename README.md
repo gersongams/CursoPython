@@ -10,8 +10,8 @@ Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.or
 * [02. Estructuras de control y Bucles](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/2.%20Contro%20de%20Flujo%20y%20Bucles.ipynb)
 * [03. Colecciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/3.%20Colecciones.ipynb)
 * [04. Funciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/4.%20Funciones.ipynb)
-* [05. Programación Orientada a Objetos]()
-* [06. Manejo de Excepciones]()
+* [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/5.%20Clases.ipynb)
+* [06. Manejo de Excepciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/6.%20Manejo%20de%20Errores%20y%20Excepciones.ipynb)
 
 
 ### Bibliografía
