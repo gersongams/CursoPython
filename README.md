@@ -4,14 +4,12 @@
 
 Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.org/)
 
-Siéntase libre de editar, complementar, mejorar, incluir, clarificar los contenidos de estas notas. ¡Recuerde compartir sus aportes!
-
 ## Temario
 
-* [01. Introducción]()
-* [02. Estructuras de control y Bucles]()
-* [03. Colecciones]()
-* [04. Funciones]()
+* [01. Introducción](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/1.%20Introducci%C3%B3n.ipynb)
+* [02. Estructuras de control y Bucles](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/2.%20Contro%20de%20Flujo%20y%20Bucles.ipynb)
+* [03. Colecciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/3.%20Colecciones.ipynb)
+* [04. Funciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/4.%20Funciones.ipynb)
 * [05. Programación Orientada a Objetos]()
 * [06. Manejo de Excepciones]()
 
