@@ -13,6 +13,9 @@ Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.or
 * [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/5.%20Clases.ipynb)
 * [06. Archivos & Manejo de Excepciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/6.%20Archivos%2C%20Manejo%20de%20Errores%20%26%20Excepciones.ipynb)
 * [07. Numpy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/7.%20Numpy.ipynb)
+* [08. Matplotlib & Scipy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/8.%20Matplotlib%20%26%20Scipy.ipynb)
+* [09. Sympy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/9.%20Sympy.ipynb)
+
 
 
 ### Bibliografía
