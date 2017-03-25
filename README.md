@@ -6,7 +6,7 @@ Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.or
 
 ## Temario
 * [00. Introducción](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/0.%20Instalaci%C3%B3n%20e%20Introducci%C3%B3n.ipynb)
-* [01. Python - Sintaxis]http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/1.%20Python%20-%20Sintaxis.ipynb)
+* [01. Python - Sintaxis](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/1.%20Python%20-%20Sintaxis.ipynb)
 * [02. Estructuras de control y Bucles](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/2.%20Contro%20de%20Flujo%20y%20Bucles.ipynb)
 * [03. Colecciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/3.%20Colecciones.ipynb)
 * [04. Funciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/4.%20Funciones.ipynb)
