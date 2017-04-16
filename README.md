@@ -13,9 +13,14 @@ Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.or
 * [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/5.%20Programacion%20orientada%20a%20objetos.ipynb)
 * [06. Archivos & Manejo de Excepciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/6.%20Archivos%2C%20Manejo%20de%20Errores%20%26%20Excepciones.ipynb)
 * [07. Numpy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/7.%20Numpy%20-%20Introducci%C3%B3n.ipynb)
-* [08. Matplotlib & Scipy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/8.%20Matplotlib%20%26%20Scipy.ipynb)
+* [08. Matplotlib](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/8.%20Matplotlib.ipynb)
 * [09. Sympy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/9.%20Sympy.ipynb)
 * [10. Pandas](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/10.%20Pandas.ipynb)
+* [11. Scipy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/11.%20Scipy.ipynb)
+* [12. Scikit-Learn](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/12.%20Scikit-Learn.ipynb)
+
+
+
 
 
 ### Bibliografía
