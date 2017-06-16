@@ -1,6 +1,8 @@
 # Curso de Python Científico
 
-Ejecute los notebooks de ipython interactivamente en (http://nbviewer.jupyter.org/)
+![](images/logot.jpg)
+
+__Para ver los notebooks:__ Haga click sobre los notebooks que se encuentran debajo para observarlos en (http://nbviewer.jupyter.org/)
 
 ## Temario
 * [00. Instalación e Introducción](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/0.%20Instalaci%C3%B3n%20e%20Introducci%C3%B3n.ipynb)
