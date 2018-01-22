@@ -1,8 +1,32 @@
 # Curso de Python Científico
 
-![](images/logot.jpg)
+En este repositorio se encuentra el material del curso de Python Cientifico impartido por estudiantes de CS de la Universidad Nacional de Ingeniería.
+
+<p align="center">
+<img src="https://www.sololearn.com/Icons/Courses/1073.png">
+</p>
+
 
 __Para ver los notebooks:__ Haga click sobre los notebooks que se encuentran debajo para observarlos en (http://nbviewer.jupyter.org/)
+
+También puede interactuar con los notebooks usando:
+
+
+
+## ¿Cómo usar este material?
+
+Lee la guía de [instalación](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/0.%20Instalaci%C3%B3n%20e%20Introducci%C3%B3n.ipynb).
+
+* Clonar o descargar este material
+```bash
+git clone https://github.com/gersongams/CursoPython
+```
+* Abrir los notebooks desde consola usando el comando: 
+```bash
+cd CursoPython/
+jupyter notebook
+```
+Esto abrirá una nueva página en tu navegador con los notebooks disponibles.
 
 ## Temario
 * [00. Instalación e Introducción](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/0.%20Instalaci%C3%B3n%20e%20Introducci%C3%B3n.ipynb)
@@ -35,11 +59,17 @@ __Para ver los notebooks:__ Haga click sobre los notebooks que se encuentran deb
 
 * [Scikit-learn](http://scikit-learn.org/stable/), es tal vez la mejor biblioteca para Machine Learning, construida sobre NumPy, SciPy y Matplotlib, esta biblioteca contiene una gran cantidad de herramientas eficientes para el Machine Learning y el modelado estadístico incluyendo clasificación, regresión, agrupación y reducción de la dimensionalidad.
 
+## ¿Cómo colaborar?
+Si deseas, puedes colaborar añadiendo algunos ejemplos, problemas, etc. Para ello debes:
+
+* Hacer un fork de este proyecto
+* Hacer un pull request a este repositorio
+
 ## Autor
 * [@gersongams](https://github.com/gersongams)
 
 ## Referencias
-
+- https://docs.python.org/3.6/tutorial/
 - Sweigart, A. (2015). Automate the Boring Stuff with Python: Practical Programming for Total Beginners. No Starch Press.
 - Matthes, E. (2015). Python Crash Course: A Hands-on, Project-based Introduction to Programming. No Starch Press.
 - https://github.com/Kyubyong/numpy_exercises
