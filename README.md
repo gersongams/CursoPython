@@ -34,7 +34,7 @@ Esto abrirá una nueva página en tu navegador con los notebooks disponibles.
 * [02. Estructuras de control y Bucles](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/2.%20Contro%20de%20Flujo%20y%20Bucles.ipynb)
 * [03. Colecciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/3.%20Colecciones%20en%20Python.ipynb)
 * [04. Funciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/4.%20Funciones.ipynb)
-* [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/5.%20Programacion%20orientada%20a%20objetos.ipynb)
+* [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/5.%20Programacion%20orientada%20a%20objetos.ipynb)
 * [06. Archivos & Manejo de Excepciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/6.%20Archivos%2C%20Manejo%20de%20Errores%20%26%20Excepciones.ipynb)
 * [07. Numpy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/7.%20Numpy%20-%20Introducci%C3%B3n.ipynb)
 * [08. Matplotlib](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/8.%20Matplotlib.ipynb)
