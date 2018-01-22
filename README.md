@@ -9,9 +9,9 @@ En este repositorio se encuentra el material del curso de Python Cientifico impa
 
 __Para ver los notebooks:__ Haga click sobre los notebooks que se encuentran debajo para observarlos en (http://nbviewer.jupyter.org/)
 
-También puede interactuar con los notebooks usando:
+También puede interactuar con los notebooks de manera online usando el siguiente enlance: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gersongams/CursoPython/master)
 
-
+https://mybinder.org/v2/gh/gersongams/CursoPython/master
 
 ## ¿Cómo usar este material?
 
