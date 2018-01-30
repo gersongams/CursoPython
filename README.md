@@ -32,23 +32,23 @@ Esto abrirá una nueva página en tu navegador con los notebooks disponibles.
 
 ### Python Básico
 
-* [00. Instalación e Introducción](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/0.%20Instalaci%C3%B3n%20e%20Introducci%C3%B3n.ipynb)
-* [01. Python - Sintaxis](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/1.%20Python%20-%20Sintaxis.ipynb)
-* [02. Estructuras de control y Bucles](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/2.%20Contro%20de%20Flujo%20y%20Bucles.ipynb)
-* [03. Colecciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/3.%20Colecciones%20en%20Python.ipynb)
-* [04. Funciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/4.%20Funciones.ipynb)
-* [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/5.%20Programacion%20orientada%20a%20objetos.ipynb)
-* [06. Archivos & Manejo de Excepciones](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/6.%20Archivos%2C%20Manejo%20de%20Errores%20%26%20Excepciones.ipynb)
-* [08. Expresiones Regulares]()
-* [09. Manejo de BD con SQLite]()
+* [00. Instalación e Introducción](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/00-Instalaci%C3%B3n%20e%20Introducci%C3%B3n.ipynb)
+* [01. Python - Sintaxis](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/01-Python%20-%20Sintaxis.ipynb)
+* [02. Estructuras de control y Bucles](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/02-Contro%20de%20Flujo%20y%20Bucles.ipynb)
+* [03. Colecciones](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/03-Colecciones%20en%20Python.ipynb)
+* [04. Funciones](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/04-Funciones.ipynb)
+* [05. Programación Orientada a Objetos](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/05-Programacion%20orientada%20a%20objetos.ipynb)
+* [06. Archivos & Manejo de Excepciones](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/06-Archivos%2C%20Manejo%20de%20Errores%20%26%20Excepciones.ipynb)
+* [07. Expresiones Regulares](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/07-Expresiones%20Regulares.ipynb)
+
 ### Python Científico
 
-* [10. Numpy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/7.%20Numpy%20-%20Introducci%C3%B3n.ipynb)
-* [11. Matplotlib](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/8.%20Matplotlib.ipynb)
-* [12. Sympy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/9.%20Sympy.ipynb)
-* [13. Pandas](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/10.%20Pandas.ipynb)
-* [14. Scipy](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/11.%20Scipy.ipynb)
-* [15. Scikit-Learn](http://nbviewer.jupyter.org/github/Gerson231294/CursoPython/blob/master/Notebooks/12.%20Scikit-Learn.ipynb)
+* [8. Numpy](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/08-Numpy%20-%20Introducci%C3%B3n.ipynb)
+* [9. Matplotlib](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/09-Matplotlib.ipynb)
+* [10. Sympy](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/10-Sympy.ipynb)
+* [11. Pandas](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/11-Pandas.ipynb)
+* [12. Scipy](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/12-Scipy.ipynb)
+* [13. Scikit-Learn](http://nbviewer.jupyter.org/github/gersongams/CursoPython/blob/master/Notebooks/13-Scikit-Learn.ipynb)
 
 ## Lista de librerías usadas en el curso:
 
