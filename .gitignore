@@ -1,1 +1,3 @@
-.ipynb_checkpoints/
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
